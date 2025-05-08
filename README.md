@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @justintimejt
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning react.js + web development.
-- 💞️ I’m looking to collaborate on web development projects!
-- 📫 How to reach me jchow267@uwo.ca
-- ⚡ Fun fact: I enjoy playing basketball and eating yummy food!
+- 👋 hello, my name is justin chow
+      - currently building an ai resume app
+      - i like to eat, sleep, and code
+- 📫 contact: jchow267@uwo.ca
 
 <!---
 justintimejt/justintimejt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
