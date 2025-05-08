@@ -1,6 +1,6 @@
 - 👋 hello, my name is justin chow
-      - currently building an ai resume app
-      - i like to eat, sleep, and code
+- currently building an ai resume app
+- i like to eat, sleep, and code
 - 📫 contact: jchow267@uwo.ca
 
 <!---
