@@ -1,4 +1,4 @@
-- 👋 hello, my name is justin chow
+- 👋 hey! I am justin chow
 - currently building canvaschat
 - i like to eat, sleep, and code
 - 📫 contact: jchow267@uwo.ca
