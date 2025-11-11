@@ -1,6 +1,6 @@
 - 👋 hey! I am justin chow
 - currently building canvaschat
-- i like to eat, sleep, and code
+- I'm studying cs @ western university
 - 📫 contact: jchow267@uwo.ca
 
 <!---
